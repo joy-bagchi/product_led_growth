@@ -1,0 +1,22 @@
+# IDE directories
+.idea/
+.jbeval/
+
+# Node modules
+node_modules/
+
+# Vite and build directories
+dist/
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+
+# Environment files
+.env
